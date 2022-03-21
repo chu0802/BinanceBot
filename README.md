@@ -1,2 +1,2 @@
-# Bibot
-A binance transaction bot for automatically transaction.
+# BBot - Binance Transaction Robot
+A binance transaction robot for automatically transaction.
